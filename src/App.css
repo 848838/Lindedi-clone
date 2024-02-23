@@ -1,0 +1,11 @@
+.html ,body{
+    background-color:#F4F2EE;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.navbar navbar-expand-lg{
+
+    background-color: whitesmoke;
+}
